@@ -3,7 +3,7 @@
 🎓 Graduate student in **Data Analytics Engineering** at Northeastern University  
 🧠 Passionate about **machine learning**, **explainable AI**, and **scalable systems**  
 💡 I enjoy building things that make complex data more intuitive and useful  
-☁️ Currently working with **GCP, Docker, and transformer models**
+☁️ Currently working with **GCP, Docker, and transformer models**  
 🤝 I value being persistent, reliable, and a man of my word  
 ♟️ When I'm not coding, I like playing **chess**
 
