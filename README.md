@@ -18,7 +18,6 @@
 
 ## 💬 Let's Talk
 - 📫 Reach me at **daduraut123@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/digvijay-raut-486b841a2/)
 
 ---
 
